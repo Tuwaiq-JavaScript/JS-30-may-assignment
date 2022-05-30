@@ -1,7 +1,7 @@
 # Questions and Exercises
 
 ## Guidelines 
-all these exercises must be done in a single node file 
+all these exercises must be done in node files (one or many)
 
 ## Easy
 
